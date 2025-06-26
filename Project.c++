@@ -8,6 +8,7 @@ int fun1()
 
     return ;
 }
+//      Created By 
 
 // 		2- Subtraction (-)
 int fun2()
@@ -15,6 +16,7 @@ int fun2()
 
     return ;
 }
+//      Created By 
 
 // 		3- Multiplication (*)
 int fun3()
@@ -22,6 +24,7 @@ int fun3()
 
     return ;
 }
+//      Created By 
 
 // 		4- Division (/)
 int fun4()
@@ -29,6 +32,7 @@ int fun4()
 
     return ;
 }
+//      Created By 
 
 // 		5- Modulus (%)
 int fun5()
@@ -36,6 +40,7 @@ int fun5()
 
     return ;
 }
+//      Created By 
 
 // 		6- Power (x^y)
 int fun6()
@@ -43,6 +48,7 @@ int fun6()
 
     return ;
 }
+//      Created By
 
 // 		The Main Function
 int main()
@@ -53,3 +59,6 @@ int main()
 
     return 0;
 }
+//      Created By
+
+//      Created By Tech-Titans Team 
