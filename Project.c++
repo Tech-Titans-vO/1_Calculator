@@ -48,11 +48,11 @@ int fun5(int a, int b)
 //      Created By Sameh Nasrallah
 
 // 		6- Power (x^y)
-int fun6()
-{
+// int fun6()
+// {
 
-    return ;
-}
+//     return ;
+// }
 //      Created By
 
 // 		The Main Function
