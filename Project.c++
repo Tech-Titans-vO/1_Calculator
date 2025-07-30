@@ -3,12 +3,12 @@
 using namespace std;
 
 // 		1- Summation (+)
-int fun1()
+int fun1(int a, int b)
 {
-
+    cout << "Sum: " << a + b << endl;
     return ;
 }
-//      Created By 
+//      Created By abdelrhman ahmed
 
 // 		2- Subtraction (-)
 int fun2()
