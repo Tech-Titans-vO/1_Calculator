@@ -11,18 +11,20 @@ int fun1(int a, int b)
 //      Created By abdelrhman ahmed
 
 // 		2- Subtraction (-)
-int fun2()
+int fun2(int a, int b)
 {
-
-    return ;
+    int sub = a - b;
+    cout << "sub: " << sub << endl;
+    return sub;
 }
 //      Created By 
 
 // 		3- Multiplication (*)
-int fun3()
+int fun3(int a, int b)
 {
-
-    return ;
+    int mul = a * b;
+    cout << "Mul: " << mul << endl;
+    return mul;
 }
 //      Created By 
 
