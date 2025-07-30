@@ -1,6 +1,8 @@
 "# 1_Calculator" 
-abdelrhman ahmed : Created summtion function and division function
 
-Asser Mohammed : Created Subtraction and Multiplication
+1- Abdelrhman Ahmed : Created summtion function and division function
 
-Sameh Nasrallah : Created Modulus And Main Functions 
+2- Asser Mohammed : Created Subtraction and Multiplication
+
+3- Sameh Nasrallah : Created Modulus And Main Functions 
+
