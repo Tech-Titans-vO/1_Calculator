@@ -39,12 +39,13 @@ int fun4(int a, int b)
 //      Created By abdelrhman ahmed
 
 // 		5- Modulus (%)
-int fun5()
+int fun5(int a, int b)
 {
-
-    return ;
+    int mod = a % b;
+    cout << "Mod: ";
+    return mod;
 }
-//      Created By 
+//      Created By Sameh Nasrallah
 
 // 		6- Power (x^y)
 int fun6()
@@ -61,8 +62,14 @@ int main()
     cout << "Enter two integers: ";
     cin >> X >> Y;
 
+    cout << fun1(X, Y) << endl; // Summation
+    cout << fun2(X, Y) << endl; // Subtraction
+    cout << fun3(X, Y) << endl; // Multiplication
+    cout << fun4(X, Y) << endl; // Division
+    cout << fun5(X, Y) << endl; // Modulus
+
     return 0;
 }
-//      Created By
+//      Created By Sameh Nasrallah
 
 //      Created By Tech-Titans Team 
