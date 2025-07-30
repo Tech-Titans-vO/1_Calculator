@@ -5,8 +5,9 @@ using namespace std;
 // 		1- Summation (+)
 int fun1(int a, int b)
 {
-    cout << "Sum: " << a + b << endl;
-    return ;
+    int sum = a + b;
+    cout << "Sum: ";
+    return sum;
 }
 //      Created By abdelrhman ahmed
 
@@ -14,27 +15,28 @@ int fun1(int a, int b)
 int fun2(int a, int b)
 {
     int sub = a - b;
-    cout << "sub: " << sub << endl;
+    cout << "sub: ";
     return sub;
 }
-//      Created By 
+//      Created By asser mohamed
 
 // 		3- Multiplication (*)
 int fun3(int a, int b)
 {
     int mul = a * b;
-    cout << "Mul: " << mul << endl;
+    cout << "Mul: ";
     return mul;
 }
-//      Created By 
+//      Created By asser mohamed
 
 // 		4- Division (/)
-int fun4()
+int fun4(int a, int b)
 {
-
-    return ;
+    int div = a / b;
+    cout << "Div: ";
+    return div;
 }
-//      Created By 
+//      Created By abdelrhman ahmed
 
 // 		5- Modulus (%)
 int fun5()
